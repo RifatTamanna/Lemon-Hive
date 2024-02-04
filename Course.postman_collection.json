@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "ab5489f2-3497-4a09-940f-c3b5d1e66de5",
+		"name": "Course",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18133626",
+		"_collection_link": "https://www.postman.com/planetary-comet-221529/workspace/lemon-hive/collection/18133626-ab5489f2-3497-4a09-940f-c3b5d1e66de5?action=share&source=collection_link&creator=18133626"
+	},
+	"item": [
+		{
+			"name": "User",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
